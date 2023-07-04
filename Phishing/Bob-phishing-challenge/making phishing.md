@@ -35,6 +35,7 @@ Prerequisites:
  ![clipboard](https://i.imgur.com/UYsqQy9.png)
 
 ![clipboard](https://i.imgur.com/WRjjx1B.png)
+
 This will create a very basic html file if it was not for style/style.css
 
 * Basic HTML page without image and css file which gives it a texture
