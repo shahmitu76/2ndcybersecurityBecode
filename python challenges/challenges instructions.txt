@@ -1,0 +1,16 @@
+#Hello world
+make a file called hello_world
+make a function called hello(string)
+if string is empty; print hello world
+else print hello "string"
+
+#leap year
+in every year that is evenly divisible by 4
+  except every year that is evenly divisible by 100
+    unless the year is also evenly divisible by 400
+from year import is_leap_year
+so:file name: yaer.py
+function: is_leap_year
+check if number is % 4=0
+if yes: check if number is % 100=0
+if yes: check if number is% 400=0
