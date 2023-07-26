@@ -1,0 +1,9 @@
+<!-- custom_macros.html -->
+
+{% macro render_checkbox(field) %}
+    {% if field.checked %}
+        <input type="checkbox" name="{{ field.name }}" value="{{ field.data }}" checked> {{ field.label }}
+    {% else %}
+        <input type="checkbox" name="{{ field.name }}" value="{{ field.data }}"> {{ field.label }}
+    {% endif %}
+{% endmacro %}

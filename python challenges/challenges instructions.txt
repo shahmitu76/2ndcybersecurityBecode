@@ -14,3 +14,11 @@ function: is_leap_year
 check if number is % 4=0
 if yes: check if number is % 100=0
 if yes: check if number is% 400=0
+
+
+#pangram_test
+from pangram import is_pangram
+file name:pangram
+fn: is_pangram
+check for empty string
+

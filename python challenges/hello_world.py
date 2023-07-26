@@ -1,4 +1,4 @@
-'''def hello(*name):
+def hello(*name):
     if name:
         return 'Hello, '+ name[0] +'!'
         
@@ -13,4 +13,4 @@ def hello(name): #doesn't work...one above works
         return 'Hello, World!'  
     else:
         return 'Hello, '+ name +'!' 
-        
+    '''  
